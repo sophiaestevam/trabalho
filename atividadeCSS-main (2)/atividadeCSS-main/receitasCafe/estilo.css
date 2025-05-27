@@ -1,0 +1,15 @@
+.esquerda{
+    text-align: left;
+}
+
+.div{
+    background-color: rgb(0, 120, 225);
+}
+
+body{
+    text-align: center;
+}
+
+.imagem{
+    width:300px;
+}
