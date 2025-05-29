@@ -1,0 +1,17 @@
+.esquerda{
+    text-align: left;
+}
+
+.div{
+    background-color: rgb(0, 120, 225);
+}
+
+body{
+    text-align: center;
+    background-color: #CFAB9B(156, 86, 86); /* Define a cor de fundo como vermelho */
+  
+}
+
+.imagem{
+    width:300px;
+}
