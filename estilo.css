@@ -1,3 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
 .esquerda{
     text-align: left;
 }
@@ -6,12 +14,23 @@
     background-color: rgb(0, 120, 225);
 }
 
-body{
-    text-align: center;
-    background-color: #CFAB9B(156, 86, 86); /* Define a cor de fundo como vermelho */
-  
+ul{
+    margin-bottom: 40px;
 }
-
 .imagem{
     width:300px;
+}
+
+.todo-conteudo{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    background-color: #CFAB9B;
+    gap: 40px;
+}
+
+p{
+    width: 500px;
+    text-align: center;
 }
