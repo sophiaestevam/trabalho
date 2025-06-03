@@ -11,6 +11,7 @@ body{
     flex-direction:column;
     align-items: center;
     justify-content: center;
+    height: 100vh;
 }
 
 div{
@@ -20,15 +21,21 @@ div{
     justify-content: center;
     text-align: center;
     gap: 30px;
-   background-color:#f1e2da;
+    background-color: #bb7e64;
 }
 p{
     width: 500px;
     text-align: justify;
+      color: #f1e2da;
 
+}
+h1 {
+    color: #d4c1b8;
+    text-shadow: black 3px 3px ;
+    font-size: 30px;
 }
 
 img{
-    width: 300px;
+    width: 200px;
     border-radius: 40px;
 }
