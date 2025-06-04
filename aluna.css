@@ -13,6 +13,12 @@ body{
     justify-content: center;
     height: 100vh;
 }
+button{
+    border: 9px solid #d4c1b8;
+    color: #bb7e64;
+    background-color: #d4c1b8;
+    width:80px;
+}
 
 div{
      display: flex;
